@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Broken Games</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+    <string name="reset">Reset</string>
+    <string name="tictactoe">Tic-Tac-Toe</string>
+    <string name="mode_ready">Snake\nPress Up Or Tap To Play</string>
+    <string name="mode_pause">Paused\nPress Up Or Tap  To Resume</string>
+    <string name="mode_lose_prefix">Game Over\nScore: </string>
+    <string name="snake_layout_text_text"></string>
+</resources>
